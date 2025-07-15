@@ -8,5 +8,7 @@
         <page name='RemovingDigits'/>
         <page name='GridPath -I'/>
         <page name='GridPath - II'/>
+        <page name='GridPath - III'/>
+        <page name='GridPath - IV'/>
     </pages>
 </playground>
