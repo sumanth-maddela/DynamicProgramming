@@ -7,5 +7,6 @@
         <page name='CoinCombination-II'/>
         <page name='RemovingDigits'/>
         <page name='GridPath -I'/>
+        <page name='GridPath - II'/>
     </pages>
 </playground>
